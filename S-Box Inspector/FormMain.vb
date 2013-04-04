@@ -1,5 +1,8 @@
 ﻿Public Class FormMain
 
+    ' Author: Halil Kemal TAŞKIN
+    ' Web: http://hkt.me
+
     Public SBoxName As String = ""
     Public GeneralLog As String = ""
 

@@ -1,5 +1,8 @@
 ﻿Module ModuleSBox
 
+    ' Author: Halil Kemal TAŞKIN
+    ' Web: http://hkt.me
+
 #Region "DES S-Box Tanımlamaları"
 
     'DES S-Boxlarını array olarak tanımlıyoruz. (32x16 lık matrix, 0-based)
